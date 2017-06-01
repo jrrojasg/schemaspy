@@ -1,0 +1,6 @@
+projectKey=org.schemaspy:schemaspy
+serverUrl=https://sonarqube.com
+serverVersion=6.4.0.24989
+dashboardUrl=https://sonarqube.com/dashboard/index/org.schemaspy:schemaspy
+ceTaskId=AVxiDdm0k-G92ZMG-Cw4
+ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVxiDdm0k-G92ZMG-Cw4
